@@ -5,4 +5,9 @@ D Connector, single row, 01x50, pin header
 K connector
 $ENDCMP
 #
+$CMP USB_C
+D USB Type C connector
+K connector USB C
+$ENDCMP
+#
 #End Doc Library
