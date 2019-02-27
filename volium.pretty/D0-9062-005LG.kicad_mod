@@ -1,4 +1,4 @@
-(module D0-9062-005LG (layer F.Cu) (tedit 5C76EE54)
+(module D0-9062-005LG (layer F.Cu) (tedit 5C76F175)
   (descr http://12434886.s21d-12.faiusrd.com/61/ABUIABA9GAAg3pT2zwUohufO8gE.pdf)
   (tags "USB-C connector usb")
   (fp_text reference REF** (at -0.01 4.57) (layer F.SilkS)
@@ -33,4 +33,9 @@
   (pad "" thru_hole oval (at 4.32 1.08) (size 1 1.8) (drill oval 0.6 1.4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -2.89 -2.6) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.89 -2.6) (size 0.65 0.65) (drill 0.65) (layers *.Cu *.Mask))
+  (model C:/Github/3DModels/D0_9062_005LG.step
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
